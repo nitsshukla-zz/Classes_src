@@ -7,7 +7,7 @@ public class Test
 		Dog dog = new Dog();
 		Bird bird = new Bird();
 		Animal anim = new Animal();
-		System.out.println(dog  instanceof Dog);
+		System.out.println("editing: "+(dog  instanceof Dog));
 		System.out.println(dog  instanceof Animal);
 		System.out.println(bird instanceof Animal);
 		System.out.println(anim instanceof Dog);

@@ -13,7 +13,7 @@ public class Test1 {
 
 	private static String getInterestRate(Account curr1) {
 		String ans="";
-		//<WRITE YOUR CODE HERE>
+		//<WRITE YOUR CODE HERE> Editing
 		return ans;
 	}
 
